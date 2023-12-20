@@ -4,7 +4,6 @@ Code is not shown publicly for academic integrity.
 <br> 
 243 Deep Learning for NLP
 Exploring Machine Learning Models on a task.
-
 <br> 
 Assignment 1 Analysis of Text Relations<br> 
 Using different Machine learning approaches to analyze a multilabel classification of movie utterances and their corresponding relations.<br> 
@@ -15,10 +14,11 @@ Tags: Data Cleaning, Data Analysis, Feature Engineering, Machine Learning Algori
 <br> 
 220 Data Science for NLP
 Preprocessing Data and practices.<be> 
-
+<be> 
 
 <br> 
 201 Intro to NLP
 A1 Computation Models
 A2 Implementing Ngram Language Model by scratch
 A3 Implementing Viterbi Alg for HMM tagger by scratch<be> 
+<be> 
