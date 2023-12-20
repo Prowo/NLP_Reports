@@ -1,5 +1,6 @@
 # NLP_Reports
-All reports done for NLP UCSC.<br> 
+All reports are done for NLP UCSC.<br> 
+Code is not shown publicly for academic integrity.
 <br> 
 243 Deep Learning for NLP
 Exploring Machine Learning Models on a task.
@@ -13,11 +14,11 @@ Tags: Data Cleaning, Data Analysis, Feature Engineering, Machine Learning Algori
 
 <br> 
 220 Data Science for NLP
-Preprocessing Data and practices.
+Preprocessing Data and practices.<be> 
 
 
 <br> 
 201 Intro to NLP
 A1 Computation Models
 A2 Implementing Ngram Language Model by scratch
-A3 Implementing Viterbi Alg for HMM tagger by scratch
+A3 Implementing Viterbi Alg for HMM tagger by scratch<be> 
